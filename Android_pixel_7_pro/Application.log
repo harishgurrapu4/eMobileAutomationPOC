@@ -1,0 +1,6 @@
+[Android_pixel_7_pro INFO ] 2024-04-26 20:04:56.486 ServerManager:19 - starting appium server
+[Android_pixel_7_pro INFO ] 2024-04-26 20:05:03.780 ServerManager:28 - Appium server started
+[Android_pixel_7_pro INFO ] 2024-04-26 20:05:03.799 DriverManager:27 - initializing Appium driver
+[Android_pixel_7_pro INFO ] 2024-04-26 20:05:03.812 CapabilitiesManager:16 - getting capabilities
+[Android_pixel_7_pro INFO ] 2024-04-26 20:05:03.816 CapabilitiesManager:36 - appUrl is/Users/mac/IdeaProjects/eclinicalmobileautomation/src/test/resources/apps/eClinicalMobile_prod_7.0.4.apk
+[Android_pixel_7_pro INFO ] 2024-04-26 20:05:23.165 DriverManager:37 - Driver is initialized
